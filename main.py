@@ -20,8 +20,7 @@ def create_starting_game_state(amount_of_players):
     current_game_state = Game_State(amount_of_players)
     create_starting_players(current_game_state)
     print(current_game_state)
-    for player in current_game_state.players:
-        print(player)
+    current_game_state.print_players()
 
 create_starting_game_state(3)
 

@@ -11,4 +11,4 @@ class Player_State:
         self.planets_stack = planets_stack
         self.developments_stack = developments_stack
     def __repr__(self):
-        return f"Player {self.name}: Credits: {self.credits}, Victory_Points: {self.victory_points}, Tiles Played: {self.tiles_played}, Dice in cup: {self.dice_in_cup}, Dice in Population: {self.dice_in_population}, Planet Stack: {self.planets_stack}, Development Stack: {self.developments_stack}"
+        return f"{self.name}: Credits: {self.credits}, Victory_Points: {self.victory_points}, Tiles Played: {self.tiles_played}, Dice in cup: {self.dice_in_cup}, Dice in Population: {self.dice_in_population}, Planet Stack: {self.planets_stack}, Development Stack: {self.developments_stack}"

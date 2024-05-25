@@ -6,4 +6,8 @@ class Game_State:
         self.players = []
 
     def __repr__(self):
-        return f"Victory Points Left: {self.victory_points_left}, Players in game: {self.players}, "
+        return f"Victory Points Left: {self.victory_points_left}, Is game ended? {self.game_end} "
+    
+    def print_players(self):
+        for p in self.players:
+            print(p)
