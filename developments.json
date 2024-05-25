@@ -1,0 +1,334 @@
+{
+ "developments": [
+    {
+        "name": "advanced logistics",
+        "cost": 1,
+        "power_phase": "explore",
+        "power": ""
+    },
+    {
+        "name": "backup planning",
+        "cost": 1,
+        "power_phase": "",
+        "power": ""
+    },
+    {
+        "name": "diversification",
+        "cost": 1,
+        "power_phase": "reassign",
+        "power": "white explorer to any"
+    },
+    {
+        "name": "hydroponics gold",
+        "cost": 1,
+        "power_phase": "reassign",
+        "power": "green/blue"
+    },
+    {
+        "name": "jumpdrive research",
+        "cost": 1,
+        "power_phase": "ship",
+        "power": "1 credit trade brown"
+    },
+    {
+        "name": "public works",
+        "cost": 1,
+        "power_phase": "develop",
+        "power": "1 credit"
+    },
+    {
+        "name": "space mercenaries",
+        "cost": 1,
+        "power_phase": "reassign",
+        "power": "red/brown to any"
+    },
+    {
+        "name": "technology unions",
+        "cost": 1,
+        "power_phase": "explore, produce",
+        "power": "1 credit most developments"
+    },
+    {
+        "name": "terraforming robots",
+        "cost": 1,
+        "power_phase": "settle",
+        "power": "1 credit/2 credit brown"
+    },
+    {
+        "name": "colonial affinity",
+        "cost": 2,
+        "power_phase": "reassign",
+        "power": "any to settler"
+    },
+    {
+        "name": "export duties",
+        "cost": 2,
+        "power_phase": "ship",
+        "power": "1 credit trade"
+    },
+    {
+        "name": "galactic demand",
+        "cost": 2,
+        "power_phase": "ship",
+        "power": "2 credit trade from cyan"
+    },
+    {
+        "name": "galactic recycling",
+        "cost": 2,
+        "power_phase": "develop, settle",
+        "power": "1 credit"
+    },
+    {
+        "name": "local subsidies",
+        "cost": 2,
+        "power_phase": "reassign",
+        "power": "any white to any"
+    },
+    {
+        "name": "minor research labs",
+        "cost": 2,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "operations affinity",
+        "cost": 2,
+        "power_phase": "reassign",
+        "power": "any to any explorer/any to any producer"
+    },
+    {
+        "name": "shipping affinity",
+        "cost": 2,
+        "power_phase": "reassign",
+        "power": "any to shipper"
+    },
+    {
+        "name": "space docks",
+        "cost": 2,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "technology affinity",
+        "cost": 2,
+        "power_phase": "reassign",
+        "power": "any to developer"
+    },
+    {
+        "name": "alien research team",
+        "cost": 3,
+        "power_phase": "explore",
+        "power": "draw extra tile/1 credit scouted yellow"
+    },
+    {
+        "name": "alien uplift blueprints",
+        "cost": 3,
+        "power_phase": "settle",
+        "power": "green 1 less settler/yellow 1 less settler"
+    },
+    {
+        "name": "executive power",
+        "cost": 3,
+        "power_phase": "reassign",
+        "power": "any 2 to same"
+    },
+    {
+        "name": "free trade zone",
+        "cost": 3,
+        "power_phase": "settle",
+        "power": "grey 2 less settlers min 2"
+    },
+    {
+        "name": "galactic influence",
+        "cost": 3,
+        "power_phase": "reassign",
+        "power": "any to any"
+    },
+    {
+        "name": "galactic mandate",
+        "cost": 3,
+        "power_phase": "dictate",
+        "power": "any 3 to any"
+    },
+    {
+        "name": "homeworld patriotism",
+        "cost": 3,
+        "power_phase": "reassign",
+        "power": "white 1 to any/white 2 to same"
+    },
+    {
+        "name": "isolation policy",
+        "cost": 3,
+        "power_phase": "reassign",
+        "power": "any 1 to any/any 2 to any"
+    },
+    {
+        "name": "mad scientists",
+        "cost": 3,
+        "power_phase": "",
+        "power": ""
+    },
+    {
+        "name": "major research labs",
+        "cost": 3,
+        "power_phase": "explore",
+        "power": "1 white explorer"
+    },
+    {
+        "name": "merchant guild",
+        "cost": 3,
+        "power_phase": "produce",
+        "power": "2 credit"
+    },
+    {
+        "name": "space marines",
+        "cost": 3,
+        "power_phase": "immediate",
+        "power": "remove any 1 credit add red"
+    },
+    {
+        "name": "space refineries",
+        "cost": 3,
+        "power_phase": "ship",
+        "power": " 1vp each consume brown"
+    },
+    {
+        "name": "space tourism",
+        "cost": 3,
+        "power_phase": "ship",
+        "power": "1 credit/2 credit most cost planet cost"
+    },
+    {
+        "name": "trade levies",
+        "cost": 3,
+        "power_phase": "ship",
+        "power": "1 credit consume"
+    },
+    {
+        "name": "conscription",
+        "cost": 4,
+        "power_phase": "immediate",
+        "power": "remove any add 2 red"
+    },
+    {
+        "name": "galactic salon",
+        "cost": 4,
+        "power_phase": "ship",
+        "power": "1 vp"
+    },
+    {
+        "name": "information tech",
+        "cost": 4,
+        "power_phase": "immediate",
+        "power": "remove any add 2 cyan"
+    },
+    {
+        "name": "investment credits",
+        "cost": 4,
+        "power_phase": "develop",
+        "power": "1 less developer min 1"
+    },
+    {
+        "name": "propaganda campaign",
+        "cost": 4,
+        "power_phase": "reassign",
+        "power": "any 1 to any/any 2 to same"
+    },
+    {
+        "name": "replicant robots",
+        "cost": 4,
+        "power_phase": "settle",
+        "power": "1 lewss settler min 1"
+    },
+    {
+        "name": "alien research ship",
+        "cost": 5,
+        "power_phase": "explore",
+        "power": ""
+    },
+    {
+        "name": "galactic investors",
+        "cost": 5,
+        "power_phase": "develop",
+        "power": "2 credit including"
+    },
+    {
+        "name": "nanotechnology",
+        "cost": 5,
+        "power_phase": "reassign",
+        "power": "any 1 to any/any 2 to any"
+    },
+    {
+        "name": "organic shipyards",
+        "cost": 5,
+        "power_phase": "ship",
+        "power": "extra white shipper and extra green shipper"
+    },
+    {
+        "name": "robot surveyors",
+        "cost": 5,
+        "power_phase": "settle",
+        "power": "2 credit"
+    },
+    {
+        "name": "free trade association",
+        "cost": 6,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "galactic bankers",
+        "cost": 6,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "galactic exchange",
+        "cost": 6,
+        "power_phase": "settle",
+        "power": ""
+    },
+    {
+        "name": "galactic federation",
+        "cost": 6,
+        "power_phase": "develop",
+        "power": ""
+    },
+    {
+        "name": "galactic renaissance",
+        "cost": 6,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "galactic reserves",
+        "cost": 6,
+        "power_phase": "produce",
+        "power": ""
+    },
+    {
+        "name": "mining league",
+        "cost": 6,
+        "power_phase": "produce",
+        "power": ""
+    },
+    {
+        "name": "new economy",
+        "cost": 6,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "new galactic order",
+        "cost": 6,
+        "power_phase": "settle",
+        "power": ""
+    },
+    {
+        "name": "system diversification",
+        "cost": 6,
+        "power_phase": "",
+        "power": ""
+    }
+ ]
+}
