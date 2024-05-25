@@ -1,0 +1,704 @@
+[
+    {
+        "name": "ARTIST COLONY",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "NEW SURVIVALISTS",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "SECLUDED WORLD",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "STAR NOMAD LAIR",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "FORMER PENAL COLONY",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [
+            "any"
+        ],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "FIFTH COLUMN",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "HIGH GRAVITY WORLD",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "FORMER PENAL COLONY",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [
+            "any"
+        ],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "GALACTIC SURVEY HEADQUARTERS",
+        "cost": 1,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "NEW VINLAND",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "GEM WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "SPACE PORT",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "SPACE WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "PIRATE WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "ASTEROID BELT",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "ORE-RICH WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "RADIOACTIVE WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "REBEL MINERS",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [
+            "any"
+        ],
+        "gained_dice_color": [
+            "red",
+            "red"
+        ],
+        "gained_dice_type": [
+            "citizen",
+            "citizen"
+        ]
+    },
+    {
+        "name": "RUNAWAY ROBOTS",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "OUTLAW WORLD",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "SENTIENT ROBOTS",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "REBEL HIDEOUT",
+        "cost": 2,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "red",
+            "red"
+        ],
+        "gained_dice_type": [
+            "citizen",
+            "citizen"
+        ]
+    },
+    {
+        "name": "GALACTIC RESORT",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "INFORMATION HUB",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "PROSPEROUS WORLD",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "UNIVERSAL EXPORTS",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "cyan"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "COMET ZONE",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "GALACTIC FUEL DEPOT",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "JUMPDRIVE FUEL REFINERY",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "MINING WORLD",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "PLANETARY NEBULA",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "BLASTER GEM MINES",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown",
+            "red"
+        ],
+        "gained_dice_type": [
+            "citizen",
+            "citizen"
+        ]
+    },
+    {
+        "name": "PLAGUE WORLD",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "UPLIFT OVERSEERS",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "REBEL WARRIORS RACE",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [
+            "any"
+        ],
+        "gained_dice_color": [
+            "green",
+            "red"
+        ],
+        "gained_dice_type": [
+            "citizen",
+            "citizen"
+        ]
+    },
+    {
+        "name": "GATEWAY STATION",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "TRADING WORLD",
+        "cost": 3,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "ARMAMENTS WORLD",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "SILICON WORLD",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "brown"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "DEEP SPACE SYMBIONTS, LTD",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "DISTANT WORLD",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "JUNGLE WORLD",
+        "cost": 4,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "MALEVOLENT LIFEFORMS",
+        "cost": 4,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "ALIEN ROBOT SCOUT SHIP",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "DESERTED ALIEN OUTPOST",
+        "cost": 4,
+        "credit_gain": 0,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "TRANSPORT HUB",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "TOURIST WORLD",
+        "cost": 4,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "LOST SPECIES ARK WORLD",
+        "cost": 5,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "LOST SPECIES ARK WORLD",
+        "cost": 5,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "DESIGNER SPECIES, VLTD.",
+        "cost": 5,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "green"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "DESERTED ALIEN COLONY",
+        "cost": 5,
+        "credit_gain": 1,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "LOST ALIEN WARSHIP",
+        "cost": 5,
+        "credit_gain": 2,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "TERRAFORMED WORLD",
+        "cost": 5,
+        "credit_gain": 2,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen"
+        ]
+    },
+    {
+        "name": "ALIEN SENTINELS",
+        "cost": 6,
+        "credit_gain": 3,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "DESERTED ALIEN LIBRARY",
+        "cost": 6,
+        "credit_gain": 3,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "good"
+        ]
+    },
+    {
+        "name": "LOST ALIEN BATTLE FLEET",
+        "cost": 6,
+        "credit_gain": 3,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "yellow"
+        ],
+        "gained_dice_type": [
+            "cup"
+        ]
+    },
+    {
+        "name": "GALACTIC TRENDSETTERS",
+        "cost": 6,
+        "credit_gain": 2,
+        "remove_dice": [],
+        "gained_dice_color": [
+            "purple",
+            "purple"
+        ],
+        "gained_dice_type": [
+            "citizen",
+            "citizen"
+        ]
+    }
+]

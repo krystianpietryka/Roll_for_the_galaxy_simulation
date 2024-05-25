@@ -4,10 +4,20 @@ class Game_State:
         self.game_end = 0
         self.victory_points_left = amount_of_players * 12
         self.players = []
+        self.planet_bag = []
+        self.development_bag = []
 
     def __repr__(self):
-        return f"Victory Points Left: {self.victory_points_left}, Is game ended? {self.game_end} "
+        return f"Victory Points Left: {self.victory_points_left}, Planets Left: {len(self.planet_bag)}, Developments Left: {len(self.development_bag)}"
     
     def print_players(self):
         for p in self.players:
+            print(p)
+
+    def print_development_bag(self):
+        for d in self.development_bag:
+            print(d)
+
+    def print_planet_bag(self):
+        for p in self.planet_bag:
             print(p)
