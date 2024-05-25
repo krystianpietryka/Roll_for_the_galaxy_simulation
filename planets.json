@@ -1,6 +1,6 @@
 [
     {
-        "name": "ARTIST COLONY",
+        "name": "Artist Colony",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "name": "NEW SURVIVALISTS",
+        "name": "New Survivalists",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "SECLUDED WORLD",
+        "name": "Secluded World",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "name": "STAR NOMAD LAIR",
+        "name": "Star Nomad Lair",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "FORMER PENAL COLONY",
+        "name": "Former Penal Colony",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "name": "FIFTH COLUMN",
+        "name": "Fifth Column",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "name": "HIGH GRAVITY WORLD",
+        "name": "High Gravity World",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "name": "GALACTIC SURVEY HEADQUARTERS",
+        "name": "Galactic Survey Headquarters",
         "cost": 1,
         "credit_gain": 0,
         "remove_dice": [],
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "name": "NEW VINLAND",
+        "name": "New Vinland",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "name": "GEM WORLD",
+        "name": "Gem World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "name": "SPACE PORT",
+        "name": "Space Port",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "name": "SPACE WORLD",
+        "name": "Space World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "name": "PIRATE WORLD",
+        "name": "Pirate World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -158,7 +158,7 @@
         ]
     },
     {
-        "name": "ASTEROID BELT",
+        "name": "Asteroid Belt",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "name": "ORE-RICH WORLD",
+        "name": "Ore-Rich World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "name": "RADIOACTIVE WORLD",
+        "name": "Radioactive World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -194,7 +194,7 @@
         ]
     },
     {
-        "name": "REBEL MINERS",
+        "name": "Rebel Miners",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "name": "RUNAWAY ROBOTS",
+        "name": "Runaway Robots",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -222,7 +222,7 @@
         ]
     },
     {
-        "name": "OUTLAW WORLD",
+        "name": "Outlaw World",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "name": "SENTIENT ROBOTS",
+        "name": "Sentient Robots",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -246,7 +246,7 @@
         ]
     },
     {
-        "name": "REBEL HIDEOUT",
+        "name": "Rebel Hideout",
         "cost": 2,
         "credit_gain": 0,
         "remove_dice": [],
@@ -260,7 +260,7 @@
         ]
     },
     {
-        "name": "GALACTIC RESORT",
+        "name": "Galactic Resort",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "name": "INFORMATION HUB",
+        "name": "Information Hub",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -284,7 +284,7 @@
         ]
     },
     {
-        "name": "PROSPEROUS WORLD",
+        "name": "Prosperous World",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -296,7 +296,7 @@
         ]
     },
     {
-        "name": "UNIVERSAL EXPORTS",
+        "name": "Universal Exports",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -308,7 +308,7 @@
         ]
     },
     {
-        "name": "COMET ZONE",
+        "name": "Comet Zone",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "name": "GALACTIC FUEL DEPOT",
+        "name": "Galactic Fuel Depot",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "name": "JUMPDRIVE FUEL REFINERY",
+        "name": "Jumpdrive Fuel Refinery",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "name": "MINING WORLD",
+        "name": "Mining World",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "name": "PLANETARY NEBULA",
+        "name": "Planetary Nebula",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "name": "BLASTER GEM MINES",
+        "name": "Blaster Gem Mines",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -382,7 +382,7 @@
         ]
     },
     {
-        "name": "PLAGUE WORLD",
+        "name": "Plague World",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -394,7 +394,7 @@
         ]
     },
     {
-        "name": "UPLIFT OVERSEERS",
+        "name": "Uplift Overseers",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -406,7 +406,7 @@
         ]
     },
     {
-        "name": "REBEL WARRIORS RACE",
+        "name": "Rebel Warriors Race",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "name": "GATEWAY STATION",
+        "name": "Gateway Station",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -434,7 +434,7 @@
         ]
     },
     {
-        "name": "TRADING WORLD",
+        "name": "Trading World",
         "cost": 3,
         "credit_gain": 0,
         "remove_dice": [],
@@ -446,7 +446,7 @@
         ]
     },
     {
-        "name": "ARMAMENTS WORLD",
+        "name": "Armaments World",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -458,7 +458,7 @@
         ]
     },
     {
-        "name": "SILICON WORLD",
+        "name": "Silicon World",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -470,7 +470,7 @@
         ]
     },
     {
-        "name": "DEEP SPACE SYMBIONTS, LTD",
+        "name": "Deep Space Symbionts, Ltd",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -482,7 +482,7 @@
         ]
     },
     {
-        "name": "DISTANT WORLD",
+        "name": "Distant World",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -494,7 +494,7 @@
         ]
     },
     {
-        "name": "JUNGLE WORLD",
+        "name": "Jungle World",
         "cost": 4,
         "credit_gain": 0,
         "remove_dice": [],
@@ -506,7 +506,7 @@
         ]
     },
     {
-        "name": "MALEVOLENT LIFEFORMS",
+        "name": "Malevolent Lifeforms",
         "cost": 4,
         "credit_gain": 0,
         "remove_dice": [],
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "name": "ALIEN ROBOT SCOUT SHIP",
+        "name": "Alien Robot Scout Ship",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -530,7 +530,7 @@
         ]
     },
     {
-        "name": "DESERTED ALIEN OUTPOST",
+        "name": "Deserted Alien Outpost",
         "cost": 4,
         "credit_gain": 0,
         "remove_dice": [],
@@ -542,7 +542,7 @@
         ]
     },
     {
-        "name": "TRANSPORT HUB",
+        "name": "Transport Hub",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -554,7 +554,7 @@
         ]
     },
     {
-        "name": "TOURIST WORLD",
+        "name": "Tourist World",
         "cost": 4,
         "credit_gain": 1,
         "remove_dice": [],
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "name": "LOST SPECIES ARK WORLD",
+        "name": "Lost Species Ark World",
         "cost": 5,
         "credit_gain": 1,
         "remove_dice": [],
@@ -578,7 +578,7 @@
         ]
     },
     {
-        "name": "DESIGNER SPECIES, VLTD.",
+        "name": "Designer Species, Vltd.",
         "cost": 5,
         "credit_gain": 1,
         "remove_dice": [],
@@ -590,7 +590,7 @@
         ]
     },
     {
-        "name": "DESERTED ALIEN COLONY",
+        "name": "Deserted Alien Colony",
         "cost": 5,
         "credit_gain": 1,
         "remove_dice": [],
@@ -602,7 +602,7 @@
         ]
     },
     {
-        "name": "LOST ALIEN WARSHIP",
+        "name": "Lost Alien Warship",
         "cost": 5,
         "credit_gain": 2,
         "remove_dice": [],
@@ -614,7 +614,7 @@
         ]
     },
     {
-        "name": "TERRAFORMED WORLD",
+        "name": "Terraformed World",
         "cost": 5,
         "credit_gain": 2,
         "remove_dice": [],
@@ -626,7 +626,7 @@
         ]
     },
     {
-        "name": "ALIEN SENTINELS",
+        "name": "Alien Sentinels",
         "cost": 6,
         "credit_gain": 3,
         "remove_dice": [],
@@ -638,7 +638,7 @@
         ]
     },
     {
-        "name": "DESERTED ALIEN LIBRARY",
+        "name": "Deserted Alien Library",
         "cost": 6,
         "credit_gain": 3,
         "remove_dice": [],
@@ -650,7 +650,7 @@
         ]
     },
     {
-        "name": "LOST ALIEN BATTLE FLEET",
+        "name": "Lost Alien Battle Fleet",
         "cost": 6,
         "credit_gain": 3,
         "remove_dice": [],
@@ -662,7 +662,7 @@
         ]
     },
     {
-        "name": "GALACTIC TRENDSETTERS",
+        "name": "Galactic Trendsetters",
         "cost": 6,
         "credit_gain": 2,
         "remove_dice": [],

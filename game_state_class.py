@@ -8,7 +8,7 @@ class Game_State:
         self.development_bag = []
 
     def __repr__(self):
-        return f"Victory Points Left: {self.victory_points_left}, Planets Left: {len(self.planet_bag)}, Developments Left: {len(self.development_bag)}"
+        return f"Game State:\n| Victory Points Left: {self.victory_points_left}\n| Planets Left: {len(self.planet_bag)}\n| Developments Left: {len(self.development_bag)}\n"
     
     def print_players(self):
         for p in self.players:
