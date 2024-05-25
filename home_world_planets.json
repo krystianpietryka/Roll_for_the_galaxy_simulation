@@ -1,0 +1,110 @@
+[
+    {
+      "name": "Old Earth",
+      "cost": 3,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "purple"
+      ],
+      "gained_dice_type": [
+        "citizen"
+      ]
+    },
+    {
+      "name": "Epsilon Eridani",
+      "cost": 2,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "cyan",
+        "red"
+      ],
+      "gained_dice_type": [
+        "citizen",
+        "citizen"
+      ]
+    },
+    {
+      "name": "Alpha Centauri",
+      "cost": 1,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "brown"
+      ],
+      "gained_dice_type": [
+        "good"
+      ]
+    },
+    {
+      "name": "New Sparta",
+      "cost": 2,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "red",
+        "red"
+      ],
+      "gained_dice_type": [
+        "citizen",
+        "citizen"
+      ]
+    },
+    {
+      "name": "Earth's Lost Colony",
+      "cost": 2,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "cyan"
+      ],
+      "gained_dice_type": [
+        "good"
+      ]
+    },
+    {
+      "name": "Separatist Colony",
+      "cost": 2,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "red"
+      ],
+      "gained_dice_type": [
+        "cup"
+      ]
+    },
+    {
+      "name": "Ancient Race",
+      "cost": 0,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "green"
+      ],
+      "gained_dice_type": [
+        "good"
+      ]
+    },
+    {
+      "name": "Damaged Alien Factory",
+      "cost": 1,
+      "credit_gain": 0,
+      "remove_dice": [],
+      "gained_dice_color": [
+        "yellow"
+      ],
+      "gained_dice_type": [
+        "citizen"
+      ]
+    },
+    {
+      "name": "Doomed World",
+      "cost": 0,
+      "credit_gain": 8,
+      "remove_dice": [],
+      "gained_dice_color": [],
+      "gained_dice_type": []
+    }
+  ]

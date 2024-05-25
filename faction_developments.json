@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Space Piracy",
+        "cost": 0,
+        "power_phase": "ship",
+        "power": ""
+    },
+    {
+        "name": "Alien Archaeology",
+        "cost": 1,
+        "power_phase": "explore",
+        "power": ""
+    },
+    {
+        "name": "Consumer Markets",
+        "cost": 3,
+        "power_phase": "produce",
+        "power": ""
+    },
+    {
+        "name": "Improved Reconnaissance",
+        "cost": 2,
+        "power_phase": "explore",
+        "power": ""
+    },
+    {
+        "name": "Genetics Lab",
+        "cost": 2,
+        "power_phase": "produce",
+        "power": ""
+    },
+    {
+        "name": "Galactic Religion",
+        "cost": 2,
+        "power_phase": "develop",
+        "power": ""
+    },
+    {
+        "name": "Biological Adaptation",
+        "cost": 2,
+        "power_phase": "develop",
+        "power": ""
+    },
+    {
+        "name": "Mining Industry",
+        "cost": 2,
+        "power_phase": "ship",
+        "power": ""
+    }
+]

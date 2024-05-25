@@ -86,20 +86,6 @@
         ]
     },
     {
-        "name": "FORMER PENAL COLONY",
-        "cost": 1,
-        "credit_gain": 0,
-        "remove_dice": [
-            "any"
-        ],
-        "gained_dice_color": [
-            "red"
-        ],
-        "gained_dice_type": [
-            "cup"
-        ]
-    },
-    {
         "name": "GALACTIC SURVEY HEADQUARTERS",
         "cost": 1,
         "credit_gain": 0,
@@ -577,18 +563,6 @@
         ],
         "gained_dice_type": [
             "citizen"
-        ]
-    },
-    {
-        "name": "LOST SPECIES ARK WORLD",
-        "cost": 5,
-        "credit_gain": 1,
-        "remove_dice": [],
-        "gained_dice_color": [
-            "green"
-        ],
-        "gained_dice_type": [
-            "good"
         ]
     },
     {

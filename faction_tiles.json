@@ -1,0 +1,37 @@
+[
+    {
+      "development": "Space Piracy",
+      "planet": "Hidden Fortress"
+    },
+    {
+      "development": "Alien Archaeology",
+      "planet": "Alien Rosetta Stone World"
+    },
+    {
+      "development": "Consumer Markets",
+      "planet": "Space Mall"
+    },
+    {
+      "development": "Improved Reconnaissance",
+      "planet": "Wormhole Station"
+    },
+    {
+      "development": "Genetics Lab",
+      "planet": "The Last of the Gnarssh"
+    },
+    {
+      "development": "Galactic Religion",
+      "planet": "Pilgrimage World"
+    },
+    {
+      "development": "Biological Adaptation",
+      "planet": "Aquatic Uplift World"
+    },
+    {
+      "development": "Mining Industry",
+      "planet": "Meteorite Planet"
+    },
+    {
+      "planet": ["Awakened Alien Outpost", "Destroyed Colony"]
+    }
+  ]
