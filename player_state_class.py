@@ -12,6 +12,8 @@ class Player_State:
         self.development_stack = development_stack
 
     def __repr__(self):
-        planet_names = ", ".join(planet.name for planet in self.planet_stack)
-        development_names = ", ".join(development.name for development in self.development_stack)
-        return f"{self.name} State:\n| Credits: {self.credits}\n| Victory_Points: {self.victory_points}\n| Tiles Played: {self.tiles_played}\n| Dice in cup: {self.dice_in_cup}\n| Dice in Citizenry: {self.dice_in_citizenry}\n| Planet Stack: {planet_names}\n| Development Stack: {development_names}\n"
+        planet_names = "|".join(planet.name for planet in self.planet_stack)
+        development_names = "|".join(development.name for development in self.development_stack)
+        dice_types_in_cup = "|".join(dice.type for dice in self.dice_in_cup)
+        dice_types_in_citizenry = "|".join(dice.type for dice in self.dice_in_citizenry)
+        return f"{self.name} State:\n| Credits: {self.credits}\n| Victory_Points: {self.victory_points}\n| Tiles Played: {self.tiles_played}\n| Dice in cup: {dice_types_in_cup}\n| Dice in Citizenry: {dice_types_in_citizenry}\n| Planet Stack: {planet_names}\n| Development Stack: {development_names}\n"

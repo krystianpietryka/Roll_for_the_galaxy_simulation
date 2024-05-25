@@ -5,13 +5,40 @@ from player_state_class import Player_State
 from game_state_class import Game_State
 from planet_class import Planet
 from development_class import Development
+from dice_class import Dice
 
-#add faction developments
 #implement development actions
-
+#populate planet and research development mechanics
+#add dice class and dice sides
 
 # planets_file = open('planets.json')
 # planets_dict = json.load(planets_file)
+
+def create_dice_objects(game_state):
+     home_dice = Dice("Home", "White", "Explore", "Explore", "Develop", "Settle", "Produce", "Ship")
+     military_dice = Dice("Military", "Red", "Explore", "Develop", "Settle", "Develop", "Settle", "Wild")
+     consumption_dice = Dice("Consumption", "Purple", "Explore", "Develop", "Ship", "Ship", "Ship", "Wild")
+     novelty_dice = Dice("Novelty", "Cyan", "Explore", "Produce", "Produce", "Ship", "Ship", "Wild")
+     rare_elements_dice = Dice("Rare Elements", "Brown", "Explore", "Develop", "Develop", "Produce", "Ship", "Wild")
+     genes_dice = Dice("Genes", "Green", "Explore", "Settle", "Settle", "Produce", "Wild", "Wild")
+     alien_dice = Dice("Alien", "Yellow", "Develop", "Settle", "Produce", "Wild", "Wild", "Wild")
+     game_state.dice_bag = {"Home":home_dice, "Military":military_dice, "Consumption":consumption_dice, "Novelty":novelty_dice, "Rare Elements":rare_elements_dice, "Genes":genes_dice, "Alien": alien_dice}
+
+def Roll_Dice(dice_object):
+    side_rolled = random.randint(1,6)
+    if side_rolled == 1:
+        return dice_object.side_1
+    if side_rolled == 2:
+        return dice_object.side_2
+    if side_rolled == 3:
+        return dice_object.side_3
+    if side_rolled == 4:
+        return dice_object.side_4
+    if side_rolled == 5:
+        return dice_object.side_5
+    if side_rolled == 6:
+        return dice_object.side_6
+
 
 def load_bag_developments(game_state):
     developments = []
@@ -99,8 +126,11 @@ def distribute_starting_white_dice(game_state):
      for player in players:
           current_dice_in_citizenry = player.dice_in_citizenry
           current_dice_in_cup = player.dice_in_cup
-          current_dice_in_citizenry.append(["white", "white"])
-          current_dice_in_cup.append(["white", "white", "white"])
+          home_dice_object = game_state.dice_bag.get("Home")
+          for i in range(2):
+            current_dice_in_citizenry.append( home_dice_object)
+          for i in range(3):
+            current_dice_in_cup.append(home_dice_object)
           player.dice_in_citizenry = current_dice_in_citizenry
           player.dice_in_cup = current_dice_in_cup
 
@@ -114,10 +144,12 @@ def create_starting_game_state(amount_of_players):
     load_bag_developments(current_game_state)
     load_bag_planets(current_game_state)
     print(current_game_state)
+    create_dice_objects(current_game_state)
     distribute_home_world_planets_to_players(current_game_state)
     distribute_faction_tiles_to_players(current_game_state)
     distribute_starting_white_dice(current_game_state)
     current_game_state.print_players()
+    # print(Roll_Dice(current_game_state.dice_bag["Home"]))
     #current_game_state.print_development_bag()
     #current_game_state.print_planet_bag()
 
